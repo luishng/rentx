@@ -81,7 +81,7 @@ This software a mobile hybrid application, provide a company rent your cars for 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/luishng/rentx.git && cd ignews
+$ git clone https://github.com/luishng/rentx.git && cd rentx
 ```
 
 ### Backend
